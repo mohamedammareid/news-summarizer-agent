@@ -1,4 +1,4 @@
-# 🗞️ Enterprise AI News Intelligence Agent
+# Enterprise AI News Intelligence Agent
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![OpenAI](https://img.shields.io/badge/AI-OpenAI%20GPT--4o-green)
@@ -74,4 +74,5 @@ pro-news-agent/
     ```bash
     streamlit run app.py
     ```
+
 
