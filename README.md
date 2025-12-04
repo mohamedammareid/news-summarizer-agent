@@ -66,7 +66,7 @@ pro-news-agent/
     Create a `.env` file and add your OpenAI Key:
 
     ```env
-    OPENAI_API_KEY=sk-proj-xxxxxxxxxxxx
+    OPENAI_API_KEY=xxxxxxxxxxxx
     ```
 
 4.  **Run the App:**
@@ -74,5 +74,6 @@ pro-news-agent/
     ```bash
     streamlit run app.py
     ```
+
 
 
